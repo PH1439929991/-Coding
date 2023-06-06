@@ -1,0 +1,4 @@
+﻿  OsLib.cpp
+D:\操作系统\OsLib\OsLib.cpp(239,10): warning C4477: “printf”: 格式字符串“%12u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Space”
+D:\操作系统\OsLib\OsLib.cpp(239,10): warning C4313: “printf”: 格式字符串中的“%u”与“Space”类型的参数 1 冲突
+  OsLib.vcxproj -> D:\操作系统\OsLib\x64\Debug\OsLib.lib

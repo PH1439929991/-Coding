@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c59d9ce0-282c-4913-9b37-3a9e1a953b5f": {
+      "ProjectGuid": "c59d9ce0-282c-4913-9b37-3a9e1a953b5f",
+      "DisplayName": "OsLib",
+      "ColorIndex": 0
+    },
+    "566affac-2f66-4329-8e2e-9513f8a2f9f7": {
+      "ProjectGuid": "566affac-2f66-4329-8e2e-9513f8a2f9f7",
+      "DisplayName": "test",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
